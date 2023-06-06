@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "bryntum-gantt",
+    "libraryId": "dbdd344d-2de9-44e5-ac93-9d2a320be24e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "BryntumGantt",
+    "solutionShortDescription": "BryntumGantt description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

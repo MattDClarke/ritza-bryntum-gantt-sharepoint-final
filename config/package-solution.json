@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "bryntum-gantt-client-side-solution",
+    "id": "dbdd344d-2de9-44e5-ac93-9d2a320be24e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "BryntumGantt Chart"
+      },
+      "longDescription": {
+        "default": "BryntumGantt chart"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "bryntum-gantt Feature",
+        "description": "The feature that activates elements of the bryntum-gantt solution.",
+        "id": "83601266-4c52-4ce0-894f-239aeacfd203",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/bryntum-gantt.sppkg"
+  }
+}

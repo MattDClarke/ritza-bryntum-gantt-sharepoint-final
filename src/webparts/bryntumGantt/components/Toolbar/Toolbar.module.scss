@@ -1,0 +1,13 @@
+.panel {
+    height : 50px;
+}
+
+.toolbar {
+    > div {
+        margin-right : 1em;
+    }
+
+    button {
+        min-width : 3.5em;
+    }
+}
